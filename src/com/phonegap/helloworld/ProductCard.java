@@ -10,7 +10,6 @@ public class ProductCard {
     String description;
     Image photo;
 
-
     public ProductCard(String nm, String desc) {
         this.name = nm;
         this.description = description;
