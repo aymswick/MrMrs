@@ -45,7 +45,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".CategoriesActivity"
+        <activity android:name=".ShoplistActivity"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
 
         </activity>

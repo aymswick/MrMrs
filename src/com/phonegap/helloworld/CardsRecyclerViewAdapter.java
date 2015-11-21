@@ -19,6 +19,9 @@ public class CardsRecyclerViewAdapter extends RecyclerView.Adapter<CardViewHolde
     public CardsRecyclerViewAdapter(Context context, List<ProductCard> itemList) {
         this.itemList = itemList;
         this.context = context;
+
+
+
     }
 
     @Override
@@ -31,8 +34,8 @@ public class CardsRecyclerViewAdapter extends RecyclerView.Adapter<CardViewHolde
 
     @Override
     public void onBindViewHolder(CardViewHolders holder, int position) {
-        holder.countryName.setText(itemList.get(position).getName());
-        holder.countryPhoto.setImageResource(itemList.get(position).getPhoto());
+        holder.productTitle.setText(itemList.get(position).getName());
+        holder.productPhoto.setImageResource(itemList.get(position).getPhoto());
     }
 
     @Override

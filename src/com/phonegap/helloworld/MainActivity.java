@@ -49,7 +49,7 @@ public class MainActivity extends CordovaActivity implements View.OnClickListene
     {
         if(v.getId() == R.id.buttonCategories)
         {
-            Intent i = new Intent(this, CategoriesActivity.class);
+            Intent i = new Intent(this, ShoplistActivity.class);
             startActivity(i);
         }
 

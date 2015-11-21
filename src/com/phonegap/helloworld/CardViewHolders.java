@@ -11,14 +11,17 @@ import android.widget.Toast;
  */
 public class CardViewHolders extends RecyclerView.ViewHolder implements View.OnClickListener {
 
-    public TextView countryName;
-    public ImageView countryPhoto;
+    public TextView productTitle;
+    public ImageView productPhoto;
 
     public CardViewHolders(View v) {
         super(v);
         v.setOnClickListener(this);
-        countryName = (TextView) v.findViewById(R.id.country_name);
-        countryPhoto = (ImageView) v.findViewById(R.id.country_photo);
+        productTitle = (TextView) v.findViewById(R.id.product_title);
+
+
+        //if(photo is horizontal, change the layout file size to product_photo_horizontal)
+        productPhoto = (ImageView) v.findViewById(R.id.product_photo);
     }
 
     @Override
