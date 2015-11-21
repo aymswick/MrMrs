@@ -16,18 +16,16 @@ public class CategoriesActivity extends Activity implements View.OnClickListener
     private StaggeredGridLayoutManager staggeredCards;
     private List<ProductCard> getListItemData(){
         List<ProductCard> listViewItems = new ArrayList<ProductCard>();
-        listViewItems.add(new ProductCard("name1", "description1"));
-        listViewItems.add(new ProductCard("name2", "description2"));
-        listViewItems.add(new ProductCard("name3", "description3"));
-        listViewItems.add(new ProductCard("name4", "description4"));
-        listViewItems.add(new ProductCard("name5", "description5"));
-        listViewItems.add(new ProductCard("name6", "description6"));
-        listViewItems.add(new ProductCard("name7", "description7"));
-        listViewItems.add(new ProductCard("name8", "description8"));
-        listViewItems.add(new ProductCard("name9", "description9"));
-        listViewItems.add(new ProductCard("name10", "description10"));
-        listViewItems.add(new ProductCard("name11", "description11"));
-        listViewItems.add(new ProductCard("name12", "description12"));
+        listViewItems.add(new ProductCard("name1", R.drawable.one));
+        listViewItems.add(new ProductCard("name2", R.drawable.two));
+        listViewItems.add(new ProductCard("name3", R.drawable.three));
+        listViewItems.add(new ProductCard("name4", R.drawable.four));
+        listViewItems.add(new ProductCard("name5", R.drawable.five));
+        listViewItems.add(new ProductCard("name6", R.drawable.six));
+        listViewItems.add(new ProductCard("name7", R.drawable.seven));
+        listViewItems.add(new ProductCard("name8", R.drawable.eight));
+        listViewItems.add(new ProductCard("name9", R.drawable.nine));
+        listViewItems.add(new ProductCard("name10", R.drawable.ten));
         return listViewItems;
     }
 

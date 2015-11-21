@@ -8,11 +8,11 @@ import android.media.Image;
 public class ProductCard {
     String name;
     String description;
-    Image photo;
+    int photo;
 
-    public ProductCard(String nm, String desc) {
+    public ProductCard(String nm, int photo) {
         this.name = nm;
-        this.description = description;
+        this.photo = photo;
     }
 
     public String getName() {
@@ -23,7 +23,7 @@ public class ProductCard {
         return description;
     }
 
-    public Image getPhoto() {
+    public int getPhoto() {
         return photo;
     }
 
