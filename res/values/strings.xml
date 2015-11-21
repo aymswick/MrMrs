@@ -3,4 +3,10 @@
     <string name="app_name">Hello World</string>
     <string name="launcher_name">@string/app_name</string>
     <string name="activity_name">@string/launcher_name</string>
+    <string name="action_settings">action_settings</string>
+    <string name="hello_world">hello world</string>
+    <string name="categories">Categories</string>
+    <string name="webview">Webview</string>
+
+
 </resources>

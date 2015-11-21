@@ -19,16 +19,43 @@
 
 package com.phonegap.helloworld;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
 import org.apache.cordova.*;
 
-public class MainActivity extends CordovaActivity
+public class MainActivity extends CordovaActivity implements View.OnClickListener
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        View btnCategories = (Button) findViewById(R.id.buttonCategories);
+        btnCategories.setOnClickListener(this);
+
+        View btnWebview = (Button) findViewById(R.id.buttonWebview);
+        btnWebview.setOnClickListener(this);
+
         // Set by <content src="index.html" /> in config.xml
-        loadUrl(launchUrl);
+    }
+
+
+    @Override
+    public void onClick(View v)
+    {
+        if(v.getId() == R.id.buttonCategories)
+        {
+            Intent i = new Intent(this, CategoriesActivity.class);
+            startActivity(i);
+        }
+
+        else if(v.getId() == R.id.buttonWebview)
+        {
+            loadUrl(launchUrl);
+        }
     }
 }
