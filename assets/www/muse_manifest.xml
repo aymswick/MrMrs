@@ -1,0 +1,547 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.shopmrmrs.com" resolutions="1x" timestamp="1448077212412">
+  <folder name="css">
+    <file name="site_global.css" crc="3911456251"/>
+    <file name="master_a-master.css" crc="4202039485" ref="weddings:mandy-kevin:gifts:jen-jon:christina-aaron:heather-david:joy-andrew:carly-ryan:index:evyn-jaren:karen-jackson"/>
+    <file name="master_c-master.css" crc="140887803" ref="feature:contact:partners"/>
+    <file name="master_b-master.css" crc="58464343" ref="terms:about"/>
+    <file name="weddings.css" crc="530513418" ref="weddings"/>
+    <file name="iefonts_weddings.css" crc="4134373781" ref="weddings"/>
+    <file name="feature.css" crc="513161168" ref="feature"/>
+    <file name="iefonts_feature.css" crc="4144746497" ref="feature"/>
+    <file name="mandy-kevin.css" crc="4206362962" ref="mandy-kevin"/>
+    <file name="iefonts_mandy-kevin.css" crc="3921792987" ref="mandy-kevin"/>
+    <file name="gifts.css" crc="61568367" ref="gifts"/>
+    <file name="iefonts_gifts.css" crc="525110461" ref="gifts"/>
+    <file name="jen-jon.css" crc="3939021992" ref="jen-jon"/>
+    <file name="iefonts_jen-jon.css" crc="3940150572" ref="jen-jon"/>
+    <file name="contact.css" crc="449305886" ref="contact"/>
+    <file name="iefonts_contact.css" crc="103813974" ref="contact"/>
+    <file name="partners.css" crc="152719371" ref="partners"/>
+    <file name="iefonts_partners.css" crc="3876185518" ref="partners"/>
+    <file name="christina-aaron.css" crc="3911882276" ref="christina-aaron"/>
+    <file name="iefonts_christina-aaron.css" crc="136661552" ref="christina-aaron"/>
+    <file name="form.css" crc="134889093" ref="form"/>
+    <file name="heather-david.css" crc="3855794259" ref="heather-david"/>
+    <file name="iefonts_heather-david.css" crc="4058631783" ref="heather-david"/>
+    <file name="terms.css" crc="407735909" ref="terms"/>
+    <file name="iefonts_terms.css" crc="3850389783" ref="terms"/>
+    <file name="joy-andrew.css" crc="111570293" ref="joy-andrew"/>
+    <file name="iefonts_joy-andrew.css" crc="4254949883" ref="joy-andrew"/>
+    <file name="carly-ryan.css" crc="390804338" ref="carly-ryan"/>
+    <file name="iefonts_carly-ryan.css" crc="3788759699" ref="carly-ryan"/>
+    <file name="index.css" crc="3952387895" ref="index"/>
+    <file name="iefonts_index.css" crc="230973523" ref="index"/>
+    <file name="evyn-jaren.css" crc="280601641" ref="evyn-jaren"/>
+    <file name="iefonts_evyn-jaren.css" crc="4248690743" ref="evyn-jaren"/>
+    <file name="karen-jackson.css" crc="62960486" ref="karen-jackson"/>
+    <file name="iefonts_karen-jackson.css" crc="3995570166" ref="karen-jackson"/>
+    <file name="about.css" crc="421658864" ref="about"/>
+    <file name="iefonts_about.css" crc="4278407722" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="heatherdavid.png" crc="256540054" seo="true" mt="1428470760000"/>
+    <file name="joyandrew.png" crc="3771567139" seo="true" mt="1430980898000"/>
+    <file name="pop.png" crc="471829694" seo="true" mt="1432535588000"/>
+    <file name="evynjaren.png" crc="4208105362" seo="true" mt="1433924600000"/>
+    <file name="gifts.png" crc="3838066201" seo="true" mt="1445319583000"/>
+    <file name="partners.png" crc="339425415" seo="true" mt="1445322516000"/>
+    <file name="gifts2.png" crc="369919645" seo="true" mt="1447743762000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:feature:contact:form:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:feature:contact:form:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:feature:contact:form:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:feature:contact:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="webpro.js" crc="3883484123" ref="index:about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:about:feature:contact:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:about:feature:contact:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:about:feature:contact:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:feature:contact:form:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts:partners"/>
+    <file name="form_check.php" crc="3932029206" ref="about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:partners"/>
+    <file name="form_throttle.php" crc="314685628" ref="about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:partners"/>
+    <file name="form_process.php" crc="401030677" ref="about:feature:contact:terms:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:partners"/>
+    <file name="form-u67978.php" crc="3980320752" ref="about:terms"/>
+    <file name="form-u30302.php" crc="4158223566" ref="feature:contact:partners"/>
+    <file name="form-u12637.php" crc="374625058" ref="contact"/>
+    <file name="form-u38675.php" crc="64782054" ref="carly-ryan"/>
+    <file name="form-u38661.php" crc="202044902" ref="karen-jackson"/>
+    <file name="form-u39920.php" crc="4025371054" ref="mandy-kevin"/>
+    <file name="form-u43258.php" crc="334555437" ref="jen-jon"/>
+    <file name="form-u45309.php" crc="105976451" ref="christina-aaron"/>
+    <file name="form-u52753.php" crc="3945663684" ref="heather-david"/>
+    <file name="form-u58038.php" crc="3872179981" ref="joy-andrew"/>
+    <file name="form-u67756.php" crc="480334997" ref="evyn-jaren"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="gifts:partners"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4223106939" ref="index"/>
+    <file name="mrmrs logo_black-crop-u29535.png" crc="39059549" ref="index:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="127 gray-crop-u67575.jpg" crc="389212001" ref="index:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings:gifts"/>
+    <file name="gray picture.jpg" crc="199814792" seo="true" ref="index:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding404.jpg" crc="4016772733" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="tag trigger.png" crc="3795745051" ref="index:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings"/>
+    <file name="info tag trigger.png" crc="4128562337" ref="index:carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding120.jpg" crc="170547544" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding419.jpg" crc="4051000998" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding155.jpg" crc="4022913058" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding380.jpg" crc="3796428794" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding005.jpg" crc="125312272" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding416.jpg" crc="498307710" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding164.jpg" crc="3998378969" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="evynjarenwedding162.jpg" crc="438417676" seo="true" ref="index:evyn-jaren:weddings"/>
+    <file name="0683.jpg" crc="4179864283" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0434.jpg" crc="3989545487" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0421.jpg" crc="508897350" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0815.jpg" crc="4090712175" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0702.jpg" crc="4056040480" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="1272.jpg" crc="4236524829" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0031.jpg" crc="326231700" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0447.jpg" crc="3817104384" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0782.jpg" crc="362800188" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="0791.jpg" crc="267228553" seo="true" ref="index:joy-andrew:weddings"/>
+    <file name="the finley wedding-getting ready-0141.jpg" crc="60237921" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0012.jpg" crc="4074731173" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-ceremony-0006.jpg" crc="4171827747" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0192.jpg" crc="124259058" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0028.jpg" crc="33186435" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-reception-0057.jpg" crc="4059847992" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-ceremony-0004.jpg" crc="3780695799" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0173.jpg" crc="388767308" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0172.jpg" crc="278236192" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-ceremony-0106.jpg" crc="3792028010" seo="true" ref="index:heather-david:weddings"/>
+    <file name="the finley wedding-getting ready-0167-crop-u52578.jpg" crc="4171228245" ref="index"/>
+    <file name="ca01_1.jpg" crc="332786977" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca01.jpg" crc="3800384748" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca07_1.jpg" crc="24644354" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca08.jpg" crc="389189829" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca358.jpg" crc="5613436" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca06.jpg" crc="465960212" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="ca033.jpg" crc="4122465101" seo="true" ref="index:christina-aaron:weddings"/>
+    <file name="reception hall _ centerpieces-crop-u43894.jpg" crc="3863973394" ref="index"/>
+    <file name="302708_679720068940_2234263_n.jpg" crc="1737240" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="300176_679694330520_1033910_n.jpg" crc="264291896" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="296346_679430908420_1163910_n.jpg" crc="198123583" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="309905_679694859460_5660017_n.jpg" crc="321274254" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="306971_679429805630_6329073_n.jpg" crc="14780737" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="305992_679697159850_2691904_n.jpg" crc="44112332" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="314280_680225381290_5365548_n-crop-u44046.jpg" crc="224769962" ref="index"/>
+    <file name="294180_680225266520_4601934_n.jpg" crc="502997318" seo="true" ref="index:jen-jon:weddings"/>
+    <file name="kevin_mandy-001-u39548.png" crc="241528135" ref="index"/>
+    <file name="kevin_mandy-161.jpg" crc="464492065" seo="true" ref="index:mandy-kevin:weddings"/>
+    <file name="kevin_mandy-289.jpg" crc="4040261743" seo="true" ref="index:mandy-kevin:weddings"/>
+    <file name="kevin_mandy-191.jpg" crc="4102702325" seo="true" ref="index:mandy-kevin:weddings"/>
+    <file name="kevin_mandy-297.jpg" crc="386777044" seo="true" ref="index:mandy-kevin:weddings"/>
+    <file name="kevin_mandy-356.jpg" crc="4199875791" seo="true" ref="index:mandy-kevin:weddings"/>
+    <file name="0001_karen_jackson_20.jpg" crc="4073772026" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_08.jpg" crc="4049963209" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_30_1.jpg" crc="157563935" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_04.jpg" crc="22715838" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_29.jpg" crc="150851816" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_05.jpg" crc="416565310" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_35.jpg" crc="152741748" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="0001_karen_jackson_32.jpg" crc="305048483" seo="true" ref="index:karen-jackson:weddings"/>
+    <file name="edsonwedding-243.jpg" crc="315903179" seo="true" ref="index:carly-ryan:weddings"/>
+    <file name="edsonwedding-074.jpg" crc="172560387" seo="true" ref="index:carly-ryan:weddings"/>
+    <file name="edsonwedding-403bw-crop-u38797.jpg" crc="321898998" ref="index"/>
+    <file name="edsonwedding-233.jpg" crc="4018468144" seo="true" ref="index:carly-ryan:weddings"/>
+    <file name="edsonwedding-265.jpg" crc="3968074509" seo="true" ref="index:carly-ryan:weddings"/>
+    <file name="edsonwedding-004.jpg" crc="4214565838" seo="true" ref="index:carly-ryan:weddings"/>
+    <file name="social icons by dreamstale (33)-buttonu30277-fr.png" crc="369445636" ref="index:about:feature"/>
+    <file name="social icons by dreamstale (33)-buttonu30277-r-fr.png" crc="4193278410" ref="index:about:feature"/>
+    <file name="social icons by dreamstale (24)-buttonu30278-fr.png" crc="227395680" ref="index:about:feature"/>
+    <file name="social icons by dreamstale (24)-layer 0.png" crc="3973239165" ref="index:about:feature"/>
+    <file name="social icons by dreamstale (6)-buttonu30279-fr.png" crc="176592358" ref="index:about:feature"/>
+    <file name="social icons by dreamstale (6)-layer 0.png" crc="3958100598" ref="index:about:feature"/>
+    <file name="mrmrs logo_gray.png" crc="261504279" ref="index:about:feature"/>
+    <file name="mrmrs logo_gray-layer 3.png" crc="56827793" ref="index:about:feature"/>
+    <file name="mrmrs logo_black-crop-u68033.png" crc="39059549" ref="about:terms"/>
+    <file name="127 gray-crop-u67987.jpg" crc="389212001" ref="about:terms"/>
+    <file name="39.jpg" crc="3819347665" seo="true" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about:feature:contact"/>
+    <file name="loading.gif" crc="3815509949" ref="about:feature:contact"/>
+    <file name="u67986-17.png" crc="4288377041" ref="about:terms"/>
+    <file name="u67986-17-r.png" crc="3762946085" ref="about:terms"/>
+    <file name="u67986-17-m.png" crc="3762946085" ref="about:terms"/>
+    <file name="u67986-17-fs.png" crc="3873100148" ref="about:terms"/>
+    <file name="mrmrs logo_black-crop-u67738.png" crc="39059549" ref="feature:contact:partners"/>
+    <file name="127 gray-crop-u67692.jpg" crc="389212001" ref="feature:contact:partners"/>
+    <file name="2-crop-u7195.jpg" crc="4070345127" ref="feature"/>
+    <file name="u30310-17.png" crc="4288377041" ref="feature:contact:partners"/>
+    <file name="u30310-17-r.png" crc="3762946085" ref="feature:contact:partners"/>
+    <file name="u30310-17-m.png" crc="3762946085" ref="feature:contact:partners"/>
+    <file name="u30310-17-fs.png" crc="3873100148" ref="feature:contact:partners"/>
+    <file name="41.jpg" crc="3945643670" seo="true" ref="contact"/>
+    <file name="127 gray2x2.jpg" crc="3888049617" seo="true" ref="contact"/>
+    <file name="u12638-17.png" crc="450426813" ref="contact"/>
+    <file name="u12638-17-r.png" crc="28093814" ref="contact"/>
+    <file name="u12638-17-m.png" crc="251906643" ref="contact"/>
+    <file name="u12638-17-fs.png" crc="4211776730" ref="contact"/>
+    <file name="edsonwedding-234.jpg" crc="30462044" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-263.jpg" crc="202398700" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-001-crop-u32872.jpg" crc="379058766" ref="carly-ryan"/>
+    <file name="edsonwedding-025.jpg" crc="3833690046" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-019-crop-u32767.jpg" crc="491918472" ref="carly-ryan"/>
+    <file name="edsonwedding-403bw-crop-u32866.jpg" crc="405096317" ref="carly-ryan"/>
+    <file name="edsonwedding-098-u32797.png" crc="3886380609" ref="carly-ryan"/>
+    <file name="edsonwedding-128.jpg" crc="3869256306" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-152.jpg" crc="108759439" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-086.jpg" crc="4183350163" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-080.jpg" crc="3971975500" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-244.jpg" crc="4203118659" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-255.jpg" crc="4126581149" seo="true" ref="carly-ryan"/>
+    <file name="250 gray picture.jpg" crc="58758044" seo="true" ref="carly-ryan:karen-jackson:mandy-kevin:jen-jon:christina-aaron:heather-david:joy-andrew:evyn-jaren"/>
+    <file name="edsonwedding-139-crop-u32848.jpg" crc="3805825716" ref="carly-ryan"/>
+    <file name="edsonwedding-262.jpg" crc="3998743312" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-016.jpg" crc="260224441" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-018.jpg" crc="474756403" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-268.jpg" crc="382745036" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-017.jpg" crc="4041189094" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-026.jpg" crc="4122656413" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-327.jpg" crc="68614150" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-289.jpg" crc="3991774457" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-380.jpg" crc="295580962" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-326.jpg" crc="520299910" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-002.jpg" crc="3896426270" seo="true" ref="carly-ryan"/>
+    <file name="edsonwedding-291.jpg" crc="3951534692" seo="true" ref="carly-ryan"/>
+    <file name="u38681-17.png" crc="448132371" ref="carly-ryan"/>
+    <file name="u38681-17-r.png" crc="4217276493" ref="carly-ryan"/>
+    <file name="u38681-17-m.png" crc="4217276493" ref="carly-ryan"/>
+    <file name="u38681-17-fs.png" crc="332584391" ref="carly-ryan"/>
+    <file name="0001_karen_jackson_01.jpg" crc="530933844" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_03.jpg" crc="4005260235" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_10.jpg" crc="4073146037" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_12.jpg" crc="247054179" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_13.jpg" crc="3811464647" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_19.jpg" crc="4126582271" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_22.jpg" crc="4118614598" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_26.jpg" crc="3829370627" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_16.jpg" crc="498093478" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_25.jpg" crc="503179292" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_28.jpg" crc="4033602603" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_33.jpg" crc="498945306" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_31.jpg" crc="3836936875" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_21_2.jpg" crc="332725467" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_21_1.jpg" crc="4222920113" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_02.jpg" crc="3987297229" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_23.jpg" crc="361703919" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_30_3.jpg" crc="4062538418" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_38-crop-u34303.jpg" crc="294134861" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_37.jpg" crc="524940474" seo="true" ref="karen-jackson"/>
+    <file name="0001_karen_jackson_27.jpg" crc="512751873" seo="true" ref="karen-jackson"/>
+    <file name="u38667-17.png" crc="448132371" ref="karen-jackson"/>
+    <file name="u38667-17-r.png" crc="4217276493" ref="karen-jackson"/>
+    <file name="u38667-17-m.png" crc="4217276493" ref="karen-jackson"/>
+    <file name="u38667-17-fs.png" crc="332584391" ref="karen-jackson"/>
+    <file name="kevin_mandy-001-u34548.png" crc="87777942" ref="mandy-kevin"/>
+    <file name="kevin_mandy-265.jpg" crc="4220419592" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-248.jpg" crc="3972493961" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-081.jpg" crc="4038744527" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-059.jpg" crc="4034949022" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-045.jpg" crc="154779062" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-023.jpg" crc="46687993" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-072.jpg" crc="201988350" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-104.jpg" crc="217012571" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-089.jpg" crc="30602470" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-090.jpg" crc="4112614164" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-077.jpg" crc="124345602" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-260.jpg" crc="3984811325" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-092.jpg" crc="21345896" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-273.jpg" crc="371858297" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-250.jpg" crc="3973387773" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-135.jpg" crc="375560881" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-127.jpg" crc="217141582" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-124.jpg" crc="481575009" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-149.jpg" crc="186308325" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-101.jpg" crc="3933676101" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-150.jpg" crc="3944543797" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-164.jpg" crc="112196985" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-179.jpg" crc="4025614388" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-182.jpg" crc="3943891202" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-213.jpg" crc="326892539" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-212.jpg" crc="286549922" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-204.jpg" crc="347267071" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-195.jpg" crc="3811861953" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-285.jpg" crc="4124459880" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-286.jpg" crc="173072387" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-166.jpg" crc="4057254320" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-194.jpg" crc="4252032868" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-290.jpg" crc="400635639" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-287.jpg" crc="3838682830" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-300.jpg" crc="3960883877" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-320.jpg" crc="3853286949" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-310.jpg" crc="3781789041" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-335.jpg" crc="389446458" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-296.jpg" crc="214698401" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-317.jpg" crc="310165180" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-308-crop-u34640.jpg" crc="3922915829" ref="mandy-kevin"/>
+    <file name="kevin_mandy-343.jpg" crc="508645885" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-326.jpg" crc="442785461" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-354.jpg" crc="412734661" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-345-crop-u34652.jpg" crc="186282202" ref="mandy-kevin"/>
+    <file name="kevin_mandy-371.jpg" crc="3843877708" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-382.jpg" crc="137818719" seo="true" ref="mandy-kevin"/>
+    <file name="kevin_mandy-372.jpg" crc="307738840" seo="true" ref="mandy-kevin"/>
+    <file name="u39931-17.png" crc="448132371" ref="mandy-kevin"/>
+    <file name="u39931-17-r.png" crc="4217276493" ref="mandy-kevin"/>
+    <file name="u39931-17-m.png" crc="4217276493" ref="mandy-kevin"/>
+    <file name="u39931-17-fs.png" crc="332584391" ref="mandy-kevin"/>
+    <file name="320645_679429775690_2377306_n.jpg" crc="87922824" seo="true" ref="jen-jon"/>
+    <file name="299369_679430838560_910517_n.jpg" crc="4194724662" seo="true" ref="jen-jon"/>
+    <file name="321662_679421492290_3709621_n.jpg" crc="66851105" seo="true" ref="jen-jon"/>
+    <file name="317510_680114668160_4163282_n.jpg" crc="493532484" seo="true" ref="jen-jon"/>
+    <file name="299694_679429895450_179086_n.jpg" crc="71960981" seo="true" ref="jen-jon"/>
+    <file name="315456_679430888460_1866623_n.jpg" crc="96020655" seo="true" ref="jen-jon"/>
+    <file name="293965_679426547160_2864195_n.jpg" crc="148480833" seo="true" ref="jen-jon"/>
+    <file name="312745_680114528440_3219021_n.jpg" crc="4121970756" seo="true" ref="jen-jon"/>
+    <file name="309307_679423433400_699554_n.jpg" crc="3966137659" seo="true" ref="jen-jon"/>
+    <file name="300944_679430978280_4126543_n.jpg" crc="4160372925" seo="true" ref="jen-jon"/>
+    <file name="305436_679430968300_7116862_n.jpg" crc="3888109041" seo="true" ref="jen-jon"/>
+    <file name="309170_679428558130_2754865_n.jpg" crc="437760437" seo="true" ref="jen-jon"/>
+    <file name="317357_679423468330_6583548_n.jpg" crc="191760220" seo="true" ref="jen-jon"/>
+    <file name="jon _ brothers.jpg" crc="4262437552" seo="true" ref="jen-jon"/>
+    <file name="295889_679430933370_1993914_n.jpg" crc="3910040851" seo="true" ref="jen-jon"/>
+    <file name="314954_679701855440_4027169_n.jpg" crc="3972224450" seo="true" ref="jen-jon"/>
+    <file name="317515_679693731720_8069586_n.jpg" crc="435389444" seo="true" ref="jen-jon"/>
+    <file name="307869_679702883380_5373583_n.jpg" crc="455569705" seo="true" ref="jen-jon"/>
+    <file name="guest book.jpg" crc="4168420238" seo="true" ref="jen-jon"/>
+    <file name="prayer.jpg" crc="438131176" seo="true" ref="jen-jon"/>
+    <file name="296217_679430813610_4190994_n.jpg" crc="463382608" seo="true" ref="jen-jon"/>
+    <file name="314280_680225381290_5365548_n-crop-u40590.jpg" crc="224769962" ref="jen-jon"/>
+    <file name="jen _ jon kissing photo.jpg" crc="3941590573" seo="true" ref="jen-jon"/>
+    <file name="looking _ the bride _ groom.jpg" crc="4129610277" seo="true" ref="jen-jon"/>
+    <file name="297720_679726456140_3660050_n.jpg" crc="3807465340" seo="true" ref="jen-jon"/>
+    <file name="reception hall _ centerpieces-crop-u40464.jpg" crc="3863973394" ref="jen-jon"/>
+    <file name="from fb_ cake-crop-u40520.jpg" crc="4041132791" ref="jen-jon"/>
+    <file name="wedding cake photo.jpg" crc="3840533614" seo="true" ref="jen-jon"/>
+    <file name="centerpieces.jpg" crc="3998734304" seo="true" ref="jen-jon"/>
+    <file name="jon _ jen napkins.jpg" crc="3891504548" seo="true" ref="jen-jon"/>
+    <file name="dancing up.jpg" crc="491352003" seo="true" ref="jen-jon"/>
+    <file name="reception-crop-u41170.jpg" crc="4112638713" ref="jen-jon"/>
+    <file name="harpist-crop-u41190.jpg" crc="3850365762" ref="jen-jon"/>
+    <file name="first dance.jpg" crc="3931667560" seo="true" ref="jen-jon"/>
+    <file name="u43264-17.png" crc="448132371" ref="jen-jon"/>
+    <file name="u43264-17-r.png" crc="4217276493" ref="jen-jon"/>
+    <file name="u43264-17-m.png" crc="4217276493" ref="jen-jon"/>
+    <file name="u43264-17-fs.png" crc="332584391" ref="jen-jon"/>
+    <file name="ca023.jpg" crc="468899039" seo="true" ref="christina-aaron"/>
+    <file name="ca483.jpg" crc="26842935" seo="true" ref="christina-aaron"/>
+    <file name="ca09.jpg" crc="404214954" seo="true" ref="christina-aaron"/>
+    <file name="ca087.jpg" crc="112066377" seo="true" ref="christina-aaron"/>
+    <file name="ca025.jpg" crc="370816104" seo="true" ref="christina-aaron"/>
+    <file name="ca032.jpg" crc="4267518229" seo="true" ref="christina-aaron"/>
+    <file name="ca15.jpg" crc="191402790" seo="true" ref="christina-aaron"/>
+    <file name="ca10_2.jpg" crc="4044036411" seo="true" ref="christina-aaron"/>
+    <file name="ca13.jpg" crc="3816176612" seo="true" ref="christina-aaron"/>
+    <file name="ca119.jpg" crc="284744401" seo="true" ref="christina-aaron"/>
+    <file name="ca162.jpg" crc="4117560408" seo="true" ref="christina-aaron"/>
+    <file name="ca183.jpg" crc="33450577" seo="true" ref="christina-aaron"/>
+    <file name="ca199.jpg" crc="4118379957" seo="true" ref="christina-aaron"/>
+    <file name="ca842.jpg" crc="4097246897" seo="true" ref="christina-aaron"/>
+    <file name="ca388.jpg" crc="76340708" seo="true" ref="christina-aaron"/>
+    <file name="ca415.jpg" crc="3820224211" seo="true" ref="christina-aaron"/>
+    <file name="ca474.jpg" crc="3777326305" seo="true" ref="christina-aaron"/>
+    <file name="ca484.jpg" crc="4104557020" seo="true" ref="christina-aaron"/>
+    <file name="ca486.jpg" crc="4018238482" seo="true" ref="christina-aaron"/>
+    <file name="ca487.jpg" crc="3839646724" seo="true" ref="christina-aaron"/>
+    <file name="ca556.jpg" crc="48275498" seo="true" ref="christina-aaron"/>
+    <file name="ca619.jpg" crc="3922366152" seo="true" ref="christina-aaron"/>
+    <file name="ca648.jpg" crc="3783392972" seo="true" ref="christina-aaron"/>
+    <file name="ca712.jpg" crc="171459237" seo="true" ref="christina-aaron"/>
+    <file name="u45311-17.png" crc="448132371" ref="christina-aaron"/>
+    <file name="u45311-17-r.png" crc="4217276493" ref="christina-aaron"/>
+    <file name="u45311-17-m.png" crc="4217276493" ref="christina-aaron"/>
+    <file name="u45311-17-fs.png" crc="332584391" ref="christina-aaron"/>
+    <file name="the finley wedding-getting ready-0006.jpg" crc="399792492" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0117.jpg" crc="263209609" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0003.jpg" crc="3972309149" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0126.jpg" crc="214063983" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0002.jpg" crc="4165411965" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0072.jpg" crc="4294418245" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0159.jpg" crc="488244180" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0226.jpg" crc="3796675964" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0146.jpg" crc="242928774" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0078.jpg" crc="238399643" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0224.jpg" crc="346337238" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0067.jpg" crc="239605889" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0110.jpg" crc="369881133" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-ceremony-0044.jpg" crc="138981671" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0037.jpg" crc="3891194479" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0093.jpg" crc="3953231454" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-ceremony-0065.jpg" crc="316661694" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0167.jpg" crc="4221826872" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0160.jpg" crc="4285605096" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0077.jpg" crc="106641092" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0166.jpg" crc="170746411" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0233.jpg" crc="4106528031" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0094.jpg" crc="371192367" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0097.jpg" crc="3897887862" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-getting ready-0165.jpg" crc="74705503" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0003-crop-u49331.jpg" crc="4028580616" ref="heather-david"/>
+    <file name="the finley wedding-reception-0022.jpg" crc="4176177755" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0074.jpg" crc="3862293472" seo="true" ref="heather-david"/>
+    <file name="the finley wedding-reception-0040.jpg" crc="131708698" seo="true" ref="heather-david"/>
+    <file name="u52764-17.png" crc="448132371" ref="heather-david"/>
+    <file name="u52764-17-r.png" crc="4217276493" ref="heather-david"/>
+    <file name="u52764-17-m.png" crc="4217276493" ref="heather-david"/>
+    <file name="u52764-17-fs.png" crc="332584391" ref="heather-david"/>
+    <file name="0019.jpg" crc="435999311" seo="true" ref="joy-andrew"/>
+    <file name="0041.jpg" crc="418416198" seo="true" ref="joy-andrew"/>
+    <file name="0045.jpg" crc="4216220916" seo="true" ref="joy-andrew"/>
+    <file name="0109.jpg" crc="3868372030" seo="true" ref="joy-andrew"/>
+    <file name="0161.jpg" crc="3903200125" seo="true" ref="joy-andrew"/>
+    <file name="0199.jpg" crc="3829429733" seo="true" ref="joy-andrew"/>
+    <file name="0299.jpg" crc="3771853887" seo="true" ref="joy-andrew"/>
+    <file name="0304.jpg" crc="525030384" seo="true" ref="joy-andrew"/>
+    <file name="0324.jpg" crc="291119544" seo="true" ref="joy-andrew"/>
+    <file name="0008.jpg" crc="168293754" seo="true" ref="joy-andrew"/>
+    <file name="0021.jpg" crc="517752152" seo="true" ref="joy-andrew"/>
+    <file name="0051.jpg" crc="394646336" seo="true" ref="joy-andrew"/>
+    <file name="0147.jpg" crc="31005921" seo="true" ref="joy-andrew"/>
+    <file name="0378.jpg" crc="4162496034" seo="true" ref="joy-andrew"/>
+    <file name="0383.jpg" crc="4236942946" seo="true" ref="joy-andrew"/>
+    <file name="0464.jpg" crc="4191342416" seo="true" ref="joy-andrew"/>
+    <file name="0554.jpg" crc="3966187197" seo="true" ref="joy-andrew"/>
+    <file name="0569.jpg" crc="4007955491" seo="true" ref="joy-andrew"/>
+    <file name="0552.jpg" crc="3895586979" seo="true" ref="joy-andrew"/>
+    <file name="0618.jpg" crc="4107857117" seo="true" ref="joy-andrew"/>
+    <file name="0748.jpg" crc="3774073179" seo="true" ref="joy-andrew"/>
+    <file name="0840.jpg" crc="308740553" seo="true" ref="joy-andrew"/>
+    <file name="0005.jpg" crc="34287324" seo="true" ref="joy-andrew"/>
+    <file name="0901.jpg" crc="369374595" seo="true" ref="joy-andrew"/>
+    <file name="0935.jpg" crc="62016147" seo="true" ref="joy-andrew"/>
+    <file name="0910.jpg" crc="4275359260" seo="true" ref="joy-andrew"/>
+    <file name="0979.jpg" crc="3905592585" seo="true" ref="joy-andrew"/>
+    <file name="1061.jpg" crc="426529931" seo="true" ref="joy-andrew"/>
+    <file name="1251.jpg" crc="4275671115" seo="true" ref="joy-andrew"/>
+    <file name="0551.jpg" crc="3901317724" seo="true" ref="joy-andrew"/>
+    <file name="0571.jpg" crc="316580560" seo="true" ref="joy-andrew"/>
+    <file name="0826 copy.jpg" crc="381035011" seo="true" ref="joy-andrew"/>
+    <file name="0905.jpg" crc="112729765" seo="true" ref="joy-andrew"/>
+    <file name="0940.jpg" crc="3815781128" seo="true" ref="joy-andrew"/>
+    <file name="0921.jpg" crc="4149065200" seo="true" ref="joy-andrew"/>
+    <file name="0895.jpg" crc="11828093" seo="true" ref="joy-andrew"/>
+    <file name="1115.jpg" crc="4176890516" seo="true" ref="joy-andrew"/>
+    <file name="1113.jpg" crc="3909166935" seo="true" ref="joy-andrew"/>
+    <file name="1234-crop-u53166.jpg" crc="97893626" ref="joy-andrew"/>
+    <file name="u58045-17.png" crc="448132371" ref="joy-andrew"/>
+    <file name="u58045-17-r.png" crc="4217276493" ref="joy-andrew"/>
+    <file name="u58045-17-m.png" crc="4217276493" ref="joy-andrew"/>
+    <file name="u58045-17-fs.png" crc="332584391" ref="joy-andrew"/>
+    <file name="evynjarenwedding033.jpg" crc="4149097236" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding002.jpg" crc="42661111" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding391.jpg" crc="4200806501" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding022.jpg" crc="4095592897" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding085.jpg" crc="365973142" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding319.jpg" crc="4193906532" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding092.jpg" crc="3771469480" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding042.jpg" crc="112601612" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding281.jpg" crc="323147923" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding292.jpg" crc="212644237" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding308.jpg" crc="4151142604" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding418.jpg" crc="203246018" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding201.jpg" crc="346232507" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding163.jpg" crc="246736121" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding202.jpg" crc="218314737" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding320.jpg" crc="4147152281" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding167.jpg" crc="68521015" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding417.jpg" crc="3897219928" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding412.jpg" crc="19468220" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding168.jpg" crc="12060103" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding172.jpg" crc="257917844" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding482.jpg" crc="3874990545" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding513.jpg" crc="4113065508" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding456.jpg" crc="526091409" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding473.jpg" crc="4244737028" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding518.jpg" crc="4223136918" seo="true" ref="evyn-jaren"/>
+    <file name="evynjarenwedding451.jpg" crc="4012651386" seo="true" ref="evyn-jaren"/>
+    <file name="u67767-17.png" crc="448132371" ref="evyn-jaren"/>
+    <file name="u67767-17-r.png" crc="4217276493" ref="evyn-jaren"/>
+    <file name="u67767-17-m.png" crc="4217276493" ref="evyn-jaren"/>
+    <file name="u67767-17-fs.png" crc="332584391" ref="evyn-jaren"/>
+    <file name="the finley wedding-getting ready-0167-crop-u62236.jpg" crc="4171228245" ref="weddings"/>
+    <file name="reception hall _ centerpieces-crop-u62765.jpg" crc="3863973394" ref="weddings"/>
+    <file name="314280_680225381290_5365548_n-crop-u63832.jpg" crc="224769962" ref="weddings"/>
+    <file name="kevin_mandy-001-u61213.png" crc="241528135" ref="weddings"/>
+    <file name="edsonwedding-403bw-crop-u62157.jpg" crc="321898998" ref="weddings"/>
+    <file name="header.jpg" crc="239087204" ref="gifts"/>
+    <file name="il_570xn848964482_aln6.jpg" crc="4163044269" seo="true" ref="gifts"/>
+    <file name="il_570xn735414491_5334-crop-u70621.jpg" crc="194322916" ref="gifts"/>
+    <file name="il_570xn609400742_svwn-crop-u70595.jpg" crc="492154177" ref="gifts"/>
+    <file name="il_570xn857044641_tcz6-crop-u70639.jpg" crc="4241948290" ref="gifts"/>
+    <file name="tshirt.jpg" crc="16840189" seo="true" ref="gifts"/>
+    <file name="il_570xn833234452_536e-crop-u70633.jpg" crc="4210593335" ref="gifts"/>
+    <file name="il_570xn666145095_jeze-crop-u70601.jpg" crc="347100432" ref="gifts"/>
+    <file name="il_570xn666431742_pjul-crop-u70603.jpg" crc="3930218551" ref="gifts"/>
+    <file name="il_570xn709957130_10a4.jpg" crc="4294372884" seo="true" ref="gifts"/>
+    <file name="il_570xn848297770_f88b.jpg" crc="152672854" seo="true" ref="gifts"/>
+    <file name="il_570xn590242512_numm.jpg" crc="48879274" seo="true" ref="gifts"/>
+    <file name="il_570xn686689168_keuc.jpg" crc="3791325881" seo="true" ref="gifts"/>
+    <file name="il_570xn661813203_7lht.jpg" crc="527587647" seo="true" ref="gifts"/>
+    <file name="il_570xn829584839_mj3k-crop-u70631.jpg" crc="3985107407" ref="gifts"/>
+    <file name="doll.jpg" crc="3885822238" seo="true" ref="gifts"/>
+    <file name="il_570xn754800416_211h.jpg" crc="3984750000" seo="true" ref="gifts"/>
+    <file name="il_570xn702711655_e7lp.jpg" crc="4024079254" seo="true" ref="gifts"/>
+    <file name="il_570xn663538539_re9s.jpg" crc="361792376" seo="true" ref="gifts"/>
+    <file name="il_570xn705557834_fxal-crop-u70611.jpg" crc="9593067" ref="gifts"/>
+    <file name="il_570xn792911160_1spr.jpg" crc="4115798312" seo="true" ref="gifts"/>
+    <file name="il_570xn726200607_tcss-crop-u70619.jpg" crc="156675474" ref="gifts"/>
+    <file name="il_570xn714479805_708a-crop-u70615.jpg" crc="3784785569" ref="gifts"/>
+    <file name="il_570xn735841279_9s6g-crop-u70623.jpg" crc="525806530" ref="gifts"/>
+    <file name="jar.jpg" crc="120966460" seo="true" ref="gifts"/>
+    <file name="phone.jpg" crc="170114733" seo="true" ref="gifts"/>
+    <file name="balloons-892806_1280.jpg" crc="3950580" ref="gifts"/>
+    <file name="pillow.jpg" crc="448946811" seo="true" ref="gifts"/>
+    <file name="knots.png" crc="4110383816" seo="true" ref="gifts"/>
+    <file name="keychain.jpg" crc="4241455359" seo="true" ref="gifts"/>
+    <file name="stamper.jpg" crc="265999225" seo="true" ref="gifts"/>
+    <file name="tanks.jpg" crc="235471661" seo="true" ref="gifts"/>
+    <file name="il_570xn717512179_5w58-crop-u71018.jpg" crc="4066579463" ref="gifts"/>
+    <file name="il_570xn509816484_g53w-crop-u71012.jpg" crc="3887225357" ref="gifts"/>
+    <file name="il_570xn714529880_iw8k-crop-u71016.jpg" crc="4245341722" ref="gifts"/>
+    <file name="cups-crop-u71125.jpg" crc="145109047" ref="gifts"/>
+    <file name="socks-crop-u71171.jpg" crc="306592015" ref="gifts"/>
+    <file name="amazon logo-crop-u70335.jpg" crc="4065697092" ref="partners"/>
+    <file name="amazon logo.jpg" crc="67486364" ref="partners"/>
+    <file name="james allen logo-crop-u70339.jpg" crc="436924304" ref="partners"/>
+    <file name="james allen logo.jpg" crc="13081143" ref="partners"/>
+    <file name="shutterfly logo.jpg" crc="513958725" seo="true" ref="partners"/>
+    <file name="shutterfly logo2.jpg" crc="4178804181" ref="partners"/>
+    <file name="etsy logo.jpg" crc="486913579" seo="true" ref="partners"/>
+    <file name="etsy logo2.jpg" crc="19797132" ref="partners"/>
+    <file name="luna bazaar.jpg" crc="189604644" seo="true" ref="partners"/>
+    <file name="luna bazaar logo.jpg" crc="29784272" seo="true" ref="partners"/>
+    <file name="nordstrom.jpg" crc="198419370" seo="true" ref="partners"/>
+    <file name="nordstrom logo.jpg" crc="357968196" seo="true" ref="partners"/>
+    <file name="koyal.jpg" crc="4168111112" seo="true" ref="partners"/>
+    <file name="koyal logo.jpg" crc="11842660" seo="true" ref="partners"/>
+    <file name="wedding paper divas.jpg" crc="108141680" seo="true" ref="partners"/>
+    <file name="wedding paper divas logo.gif" crc="4044782884" seo="true" ref="partners"/>
+    <file name="weddington way.jpg" crc="4243479368" seo="true" ref="partners"/>
+    <file name="weddington way logo-crop-u70310.png" crc="3770590244" ref="partners"/>
+    <file name="beau-coup logo.jpg" crc="334065854" seo="true" ref="partners"/>
+    <file name="beau-coup logo.gif" crc="484771954" ref="partners"/>
+    <file name="usabride logo.jpg" crc="425856753" seo="true" ref="partners"/>
+    <file name="usabride logo2.jpg" crc="3916306366" ref="partners"/>
+    <file name="jo-ann logo.png" crc="3896980326" seo="true" ref="partners"/>
+    <file name="jo-ann logo2.png" crc="356627844" ref="partners"/>
+  </folder>
+  <file name="index.html" crc="354071053" seo="true" mt="1447659229563" redirect="true"/>
+  <file name="about.html" crc="84395741" seo="true" mt="1447659234044" redirect="true"/>
+  <file name="feature.html" crc="489457435" seo="true" mt="1447659225506" redirect="true"/>
+  <file name="contact.html" crc="3793319073" seo="true" mt="1447659227667" redirect="true"/>
+  <file name="form.html" crc="29014260" seo="true" mt="1444367679305" redirect="false"/>
+  <file name="terms.html" crc="4218243220" seo="true" mt="1447659234044" redirect="true"/>
+  <file name="carly-ryan.html" crc="3801395180" seo="true" mt="1447659229594" redirect="true"/>
+  <file name="karen-jackson.html" crc="301141079" seo="true" mt="1447659229069" redirect="true"/>
+  <file name="mandy-kevin.html" crc="220370641" seo="true" mt="1447659229312" redirect="true"/>
+  <file name="jen-jon.html" crc="207713929" seo="true" mt="1447659229608" redirect="true"/>
+  <file name="christina-aaron.html" crc="522065378" seo="true" mt="1447659228503" redirect="true"/>
+  <file name="heather-david.html" crc="3843526077" seo="true" mt="1447659229616" redirect="true"/>
+  <file name="joy-andrew.html" crc="4020271302" seo="true" mt="1447659228918" redirect="true"/>
+  <file name="evyn-jaren.html" crc="344221049" seo="true" mt="1447659229587" redirect="true"/>
+  <file name="weddings.html" crc="3954960038" seo="true" mt="1447659229522" redirect="true"/>
+  <file name="gifts.html" crc="13865540" seo="true" mt="1447894459701" redirect="true"/>
+  <file name="partners.html" crc="223118121" seo="true" mt="1447750144118" redirect="true"/>
+</manifest>

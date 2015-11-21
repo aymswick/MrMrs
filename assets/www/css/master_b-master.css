@@ -1,0 +1,635 @@
+#u67989-3
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+#u68033,#u67987
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#menuu67990
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u68008
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u68011-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u67999
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u67999:hover
+{
+	border-color: #22B573;
+}
+
+#u68000-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u67999:hover #u68000-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u68027
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u68030-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u67999.MuseMenuActive #u68000-4 p,#u68027:hover #u68030-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u69241
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u69241:hover
+{
+	border-color: #22B573;
+}
+
+#u69243-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u68027.MuseMenuActive #u68030-4 p,#u69241:hover #u69243-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u68022
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u68022:hover
+{
+	border-color: #22B573;
+}
+
+#u68023-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u69241.MuseMenuActive #u69243-4 p,#u68022:hover #u68023-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u68013
+{
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u68013:hover
+{
+	border-color: #22B573;
+}
+
+#u67999.MuseMenuActive,#u69241.MuseMenuActive,#u68022.MuseMenuActive,#u68013.MuseMenuActive
+{
+	border-color: #FFFFFF;
+}
+
+#u68016-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u68022.MuseMenuActive #u68023-4 p,#u68013:hover #u68016-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u68005,#u67998,#u68026,#u69240,#u68019,#u68012,#u67991
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u67992
+{
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u67992:hover
+{
+	border-color: #22B573;
+}
+
+#u67992.MuseMenuActive
+{
+	border-color: #000000;
+}
+
+#u67993-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 14px;
+	color: #000000;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u68013.MuseMenuActive #u68016-4 p,#u67992:hover #u67993-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u67992.MuseMenuActive #u67993-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#buttonu67973
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(33)-buttonu30277-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67973:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(33)-buttonu30277-r-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67974
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(24)-buttonu30278-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67974:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(24)-layer%200.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67975
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(6)-buttonu30279-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67975:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(6)-layer%200.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u23455-7
+{
+	background-color: transparent;
+	line-height: 16px;
+	text-align: left;
+	font-size: 13px;
+	color: #646464;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u23455-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u23455
+{
+	font-size: 9px;
+	line-height: 11px;
+}
+
+#u23455-3
+{
+	font-size: 9px;
+	color: #7F7F7F;
+	line-height: 11px;
+}
+
+#u23455-4
+{
+	font-size: 12px;
+	color: #7F7F7F;
+	line-height: 14px;
+}
+
+#buttonu67977
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: transparent url("../images/mrmrs%20logo_gray.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67977:hover
+{
+	background: transparent url("../images/mrmrs%20logo_gray-layer%203.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67977.ButtonSelected
+{
+	background: transparent url("../images/mrmrs%20logo_gray.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u67976-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #282828;
+	font-family: playfair-display, serif;
+	font-weight: 400;
+	font-style: italic;
+	position: relative;
+}
+
+#widgetu67978
+{
+	position: relative;
+}
+
+#widgetu67979
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#widgetu67979.fld-err-st
+{
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+#u67981-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D2D2D2;
+	background-color: #D2D2D2;
+	line-height: 11px;
+	text-align: left;
+	font-size: 11px;
+	color: #505050;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#widgetu67979.non-empty-st #u67981-4
+{
+	background-color: #FFFFFF;
+}
+
+#widgetu67979:hover #u67981-4
+{
+	border-color: #6B6B6B;
+	background-color: #FFFFFF;
+}
+
+#widgetu67979.focus-st #u67981-4
+{
+	border-color: #6B6B6B;
+	background-color: #FFFFFF;
+}
+
+#widgetu67979.fld-err-st #u67981-4
+{
+	border-color: #D7244C;
+	background-color: #FFFFFF;
+}
+
+#widgetu67979.non-empty-st #u67981-4 *
+{
+	color: #4F4F4F;
+	font-style: normal;
+}
+
+#widgetu67979:hover #u67981-4 *
+{
+	color: #4F4F4F;
+	font-style: normal;
+}
+
+#widgetu67979.focus-st #u67981-4 *
+{
+	color: #4F4F4F;
+	font-style: normal;
+}
+
+#widgetu67979.fld-err-st #u67981-4 *
+{
+	color: #D7244C;
+	font-style: italic;
+}
+
+#widgetu67979_input,#widgetu67979_prompt
+{
+	color: #505050;
+	text-align: left;
+	font-family: raleway, sans-serif;
+	font-size: 11px;
+	font-weight: 400;
+}
+
+#widgetu67979.non-empty-st #widgetu67979_prompt
+{
+	visibility: hidden;
+}
+
+#u67983-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 11px;
+	text-align: center;
+	font-size: 9px;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#widgetu67978.frm-sub-st #u67983-4 p
+{
+	color: #999999;
+	padding-left: 0px;
+	text-align: center;
+	font-size: 9px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	line-height: 1;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+#u67984-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 13px;
+	font-size: 11px;
+	color: #C1272D;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#widgetu67978.frm-subm-err-st #u67984-4 p
+{
+	color: #C1272D;
+	padding-left: 0px;
+	text-align: center;
+	font-size: 9px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	line-height: 1;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+#u67985-4
+{
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	line-height: 11px;
+	text-align: center;
+	font-size: 11px;
+	color: #00FF00;
+	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#widgetu67978.frm-sub-st #u67983-4,#widgetu67978.frm-subm-err-st #u67984-4,#widgetu67978.frm-subm-ok-st #u67985-4
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#widgetu67978.frm-subm-ok-st #u67985-4 p
+{
+	color: #999999;
+	padding-left: 0px;
+	text-align: center;
+	font-size: 9px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	line-height: 1;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+#u67986-17
+{
+	position: relative;
+	background: url("../images/u67986-17.png") no-repeat 0px 0px;
+}
+
+#u67986-17:hover
+{
+	background: url("../images/u67986-17-r.png") no-repeat 0px 0px;
+}
+
+#u67986-17:active
+{
+	background: url("../images/u67986-17-m.png") no-repeat 0px 0px;
+}
+
+#widgetu67978.frm-sub-st #u67986-17
+{
+	background: url("../images/u67986-17-fs.png") no-repeat 0px 0px;
+}
+
+#buttonu68046
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: fixed;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(33)-buttonu30277-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu68046:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(33)-buttonu30277-r-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67973.ButtonSelected,#buttonu68046.ButtonSelected
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(33)-buttonu30277-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu68047
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: fixed;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(24)-buttonu30278-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu68047:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(24)-layer%200.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67974.ButtonSelected,#buttonu68047.ButtonSelected
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(24)-buttonu30278-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu68048
+{
+	border-color: #787878;
+	border-radius: 10px;
+	position: fixed;
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(6)-buttonu30279-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu68048:hover
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(6)-layer%200.png") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu67975.ButtonSelected,#buttonu68048.ButtonSelected
+{
+	background: transparent url("../images/social%20icons%20by%20dreamstale%20(6)-buttonu30279-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
