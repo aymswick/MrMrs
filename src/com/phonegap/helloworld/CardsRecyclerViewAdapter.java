@@ -32,7 +32,7 @@ public class CardsRecyclerViewAdapter extends RecyclerView.Adapter<CardViewHolde
     @Override
     public void onBindViewHolder(CardViewHolders holder, int position) {
         holder.countryName.setText(itemList.get(position).getName());
-        //holder.countryPhoto.setImageResource(itemList.get(position).getDescription());
+        holder.countryPhoto.setImageResource(itemList.get(position).getPhoto());
     }
 
     @Override
