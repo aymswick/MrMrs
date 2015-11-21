@@ -4,6 +4,8 @@ import android.media.Image;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+import java.util.ArrayList;
+
 /**
  * Created by asymkowick on 11/21/15.
  */
@@ -12,6 +14,15 @@ public class ProductCard implements Parcelable {
     String description;
     int horizontal;
     int photo;
+    ArrayList<String> categories;
+
+    public ArrayList<String> getCategories() {
+        return categories;
+    }
+
+    public void setCategories(ArrayList<String> categories) {
+        this.categories = categories;
+    }
 
     public ProductCard(String nm, int photo) {
         this.name = nm;
@@ -58,6 +69,9 @@ public class ProductCard implements Parcelable {
         this.horizontal = horiz;
     }
 
+    public void addCategory(String category) {
+        this.categories.add(category);
+    }
 
     @Override
     public int describeContents() {
