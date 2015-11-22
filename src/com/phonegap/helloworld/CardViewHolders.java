@@ -42,44 +42,37 @@ public class CardViewHolders extends RecyclerView.ViewHolder implements View.OnC
 
     @Override
     public void onClick(final View v) {
+
+        //Connect to the SQLite database
+        ProductRepo repo = new ProductRepo(v.getContext());
+
+        //michael work from here, uncomment these lines
+        //Product product = new Product();
+        //product = repo.getProductById(0);
+
+
+        final Dialog dialog = new Dialog(v.getContext());
+        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        dialog.setContentView(R.layout.product_info_custom_dialog);
+        //dialog.setTitle("Test Title");
+
+        TextView productTitle = (TextView) dialog.findViewById(R.id.productTitle);
+        TextView shopSimilar = (TextView) dialog.findViewById(R.id.shopSimilar);
+        TextView optionalInfo = (TextView) dialog.findViewById(R.id.optionalInfo);
+
+        //Feed Database info into dialog elements
+        productTitle.setText(product.name);
+        shopSimilar.setText(product.shopSimilar);
+        optionalInfo.setText(product.optionalInfo);
+        dialog.show();
+
         //If the user taps on a Product photo, they should see TAGS pop up in a dialog
-        if(v.getId() == R.id.product_photo)
+        if(v.getId() == productPhoto.getId())
         {
-            AlertDialog.Builder alertDialogBuilder =
-                    new AlertDialog.Builder(v.getContext())
-                            .setTitle("Product Title")
-                            .setMessage("shop similar")
-                            .setPositiveButton("SHOP", new DialogInterface.OnClickListener() {
-                                public void onClick(DialogInterface dialog, int which) {
-                                    Toast.makeText(v.getContext(), "what this do?", Toast.LENGTH_SHORT).show();
-                                }
-                            })
-                            .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
-                                public void onClick(DialogInterface dialog, int which) {
-                                    dialog.cancel();
-                                }
-                            });
 
-            //Connect to the SQLite database
-            ProductRepo repo = new ProductRepo(v.getContext());
-            Product product = new Product();
-            product = repo.getProductById(0);
-
-
-            final Dialog dialog = new Dialog(v.getContext());
-            dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
-            dialog.setContentView(R.layout.product_info_custom_dialog);
-            //dialog.setTitle("Test Title");
-
-            TextView productTitle = (TextView) dialog.findViewById(R.id.productTitle);
-            TextView shopSimilar = (TextView) dialog.findViewById(R.id.shopSimilar);
-            TextView optionalInfo = (TextView) dialog.findViewById(R.id.optionalInfo);
-
-            //Feed Database info into dialog elements
-            productTitle.setText(product.name);
-            shopSimilar.setText(product.shopSimilar);
-            optionalInfo.setText(product.optionalInfo);
-            dialog.show();
+            //All code outside this if should go in it
+            //Can't figure out how to determine individual product card taps...everything behaving on
+            //a single tap anywhere on the page
         }
 
         //If the user taps on a Category photo, they shoud be taken to a scrolling feed of only items from that CATEGORY

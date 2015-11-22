@@ -83,8 +83,11 @@ public class ShoplistActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         ProductRepo repo = new ProductRepo(this);
-        Product product = new Product();
+        //michael work from here too, uncomment
+       // Product product = new Product();
 
+
+        repo.insert(product);
         //you left off trying to insert all that old data into the
         //newly created SQLite Database
         //you gotta build each product item

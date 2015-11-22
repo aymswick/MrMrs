@@ -16,6 +16,12 @@ public class Product {
     public String shopSimilar; //Example "Shop similar at Macy's"
     public String optionalInfo; //Some items have this
     public String photo;
+    public String link;
     public int product_ID;
+
+
+    public Product(String name, String shopSimilar, String optional, String photo, String link) {
+
+    }
 
 }

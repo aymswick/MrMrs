@@ -107,7 +107,7 @@ public class ProductRepo {
                 Product.KEY_name + "," +
                 Product.KEY_shop + "," +
                 Product.KEY_optional + "," +
-                Product.KEY_photo + "," +
+                Product.KEY_photo +
                 " FROM " + Product.TABLE
                 + " WHERE " +
                 Product.KEY_ID + "=?";// It's a good practice to use parameter ?, instead of concatenate string
