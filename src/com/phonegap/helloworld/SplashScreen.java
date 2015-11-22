@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.widget.HeaderViewListAdapter;
+import android.view.MotionEvent;
 
 /**
  * Created by pedroMunoz on 11/21/15.
@@ -24,8 +25,13 @@ public class SplashScreen extends Activity {
             @Override
             public void run() {
                 //executed once timer is over to start main app
-                Intent i = new Intent(SplashScreen.this, MainActivity.class);
-                startActivity(i);
+                //intent = new Intent(SplashScreen.this, MainActivity.class);
+                //startActivity(intent);
+
+                Intent intent = new Intent();
+                intent.setClass(SplashScreen.this, MainActivity.class);
+                startActivity(intent);
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
 
 
                 //close splash screen activity
