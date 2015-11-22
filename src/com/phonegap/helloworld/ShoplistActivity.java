@@ -83,8 +83,37 @@ public class ShoplistActivity extends Activity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         ProductRepo repo = new ProductRepo(this);
-        //michael work from here too, uncomment
-       // Product product = new Product();
+        //Product("Name","Similar","Optional","Photo","Link")
+        Product one = new Product("Tulle Ball Gown","Shop similar at David's Bridal","","","http://www.davidsbridal.com/Product_melissa-sweet-tulle-wedding-dress-with-3d-flowers-ms251115");
+        repo.insert(one);
+        Product two = new Product("Letter Box","Shop this item at Beau-Coup","","","http://www.shareasale.com/m-pr.cfm?merchantID=15302&userID=1059707&productID=536203948");
+        repo.insert(two);
+        Product three = new Product("Floral Robes","Shop similar at Etsy","","","https://www.etsy.com/listing/165630630/set-of-5-floral-kimono-crossover?pid=250899");
+        repo.insert(three);
+        Product four = new Product("Monopoly Table Numbers","Shop this item at Ashley Loyd","","","http://ashleyloyd.dunked.com/invitations-wedding-suites");
+        repo.insert(four);
+        Product five = new Product("Burlap Favor Bags","Shop this item at Luna Bazaar","","","http://www.lunabazaar.com/FB18NAT-natural-brown-burlap-favor-bag.aspx?ref=sas");
+        repo.insert(five);
+        Product six = new Product("Distressed White Windowpane","Shop this item at World Market","","","http://www.worldmarket.com/product/white+vintage+6-photo+frame.do");
+        repo.insert(six);
+        Product seven = new Product("University of Texas Lace Garter","Shop this item at Etsy","","","https://www.etsy.com/listing/157151037/university-of-texas-longhorns-stretch?pid=250899");
+        repo.insert(seven);
+        Product eight = new Product("Love Knows No Borders Cake Topper", "Shop this item at Etsy","","","https://www.etsy.com/listing/187289367/texas-california-state-shaped-cake?pid=250899");
+        repo.insert(eight);
+        Product nine = new Product ("Bud Vases","Shop similar at Luna Bazaar","","","http://www.lunabazaar.com/CG92-6-clear-glass-vintage-bottle-set.aspx?ref=sas");
+        repo.insert(nine);
+        Product ten = new Product("Flower Dress", "Shop similar at Etsy","","","https://www.etsy.com/listing/165630630/set-of-5-floral-kimono-crossover?pid=250899");
+        repo.insert(ten);
+        Product eleven = new Product("Purple Check Dress Shirt","Shop Similar at Nordstorm","","","http://shop.nordstrom.com/s/trim-fit-dress-shirt/4110982?cm_ven=Linkshare&cm_cat=partner&cm_pla=10&cm_ite=1&siteId=Ai37Xnk2cUM-35ODqc3ahXLeWjsG1qIlsg");
+        repo.insert(eleven);
+        Product twelve = new Product("Manzanita Branches","Shop this item at Koyal","","","http://www.koyalwholesale.com/p26868/24-real-manzanita-branches-natural-brown.html");
+        repo.insert(twelve);
+        Product thirteen = new Product("White Tablecloth","Shop this item at Koyal","","","http://www.koyalwholesale.com/p10256/120-round-table-linens-white.html");
+        repo.insert(thirteen);
+
+
+
+        Product product = new Product();
 
 
         repo.insert(product);

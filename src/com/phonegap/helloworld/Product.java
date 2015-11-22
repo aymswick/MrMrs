@@ -19,8 +19,16 @@ public class Product {
     public String link;
     public int product_ID;
 
+    public Product() {
+
+    }
 
     public Product(String name, String shopSimilar, String optional, String photo, String link) {
+        this.name = name;
+        this.shopSimilar = shopSimilar;
+        this.optionalInfo = optional;
+        this.photo = photo;
+        this.link = link;
 
     }
 

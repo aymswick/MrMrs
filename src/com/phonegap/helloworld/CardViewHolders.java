@@ -47,8 +47,9 @@ public class CardViewHolders extends RecyclerView.ViewHolder implements View.OnC
         ProductRepo repo = new ProductRepo(v.getContext());
 
         //michael work from here, uncomment these lines
-        //Product product = new Product();
-        //product = repo.getProductById(0);
+        Product product = new Product();
+        product = repo.getProductById(0);
+
 
 
         final Dialog dialog = new Dialog(v.getContext());
