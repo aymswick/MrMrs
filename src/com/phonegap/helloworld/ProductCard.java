@@ -8,8 +8,8 @@ import java.util.ArrayList;
 
 /**
  * Created by asymkowick on 11/21/15.
- * Playfair Display - Categories
- * Raleway - ProductInfo
+ *
+ * Raleway - ProductInfo (use bold for Categories)
  */
 public class ProductCard implements Parcelable {
     String name;
@@ -24,6 +24,10 @@ public class ProductCard implements Parcelable {
 
     public void setCategories(ArrayList<String> categories) {
         this.categories = categories;
+    }
+
+    public ProductCard() {
+        this.name = "Bob";
     }
 
     public ProductCard(String nm, int photo) {

@@ -6,6 +6,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -14,13 +16,12 @@ import java.util.List;
 public class CardsRecyclerViewAdapter extends RecyclerView.Adapter<CardViewHolders> {
 
     private List<ProductCard> itemList;
+
     private Context context;
 
     public CardsRecyclerViewAdapter(Context context, List<ProductCard> itemList) {
         this.itemList = itemList;
         this.context = context;
-
-
 
     }
 

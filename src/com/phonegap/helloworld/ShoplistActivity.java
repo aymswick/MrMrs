@@ -82,6 +82,17 @@ public class ShoplistActivity extends Activity implements View.OnClickListener {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        ProductRepo repo = new ProductRepo(this);
+        Product product = new Product();
+
+        //you left off trying to insert all that old data into the
+        //newly created SQLite Database
+        //you gotta build each product item
+        //stuff the data into each product
+        //then add each product using INSERT
+
+        //Must complete navigation bar fragment, use tutorial
+        //already in browser tab
 
         setContentView(R.layout.activity_shoplist);
 
@@ -95,7 +106,6 @@ public class ShoplistActivity extends Activity implements View.OnClickListener {
 
         CardsRecyclerViewAdapter rcAdapter = new CardsRecyclerViewAdapter(this, staggeredList);
         recyclerView.setAdapter(rcAdapter);
-
 
     }
 

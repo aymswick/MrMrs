@@ -7,8 +7,9 @@ public class Category {
     String name;
     int categoryDefaultPhoto;
 
-    public Category() {
-
+    public Category(String name, int categoryDefaultPhoto) {
+        this.name = name;
+        this.categoryDefaultPhoto = categoryDefaultPhoto;
     }
 
     public int getCategoryDefaultPhoto() {

@@ -9,6 +9,11 @@
     <string name="webview">Webview</string>
     <string name="next">Next</string>
     <string name="back">Cancel</string>
+    <string name="shoplist">ShopList</string>
+    <string name="optional">optionalInfo</string>
+    <string name="shopsimilar">shopSimilar</string>
+    <string name="product_title">Product Title</string>
+    <string name="shop">Shop</string>
 
 
 </resources>

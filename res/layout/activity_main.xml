@@ -6,8 +6,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/categories"
-        android:id="@+id/buttonCategories"
+        android:text="@string/shoplist"
+        android:id="@+id/buttonShoplist"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="155dp" />
@@ -18,6 +18,15 @@
         android:text="@string/webview"
         android:id="@+id/buttonWebview"
         android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/categories"
+        android:id="@+id/buttonCategories"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/buttonWebview"
         android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

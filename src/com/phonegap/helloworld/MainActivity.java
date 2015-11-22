@@ -34,6 +34,9 @@ public class MainActivity extends CordovaActivity implements View.OnClickListene
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        View btnShopList = (Button) findViewById(R.id.buttonShoplist);
+        btnShopList.setOnClickListener(this);
+
         View btnCategories = (Button) findViewById(R.id.buttonCategories);
         btnCategories.setOnClickListener(this);
 
@@ -47,9 +50,15 @@ public class MainActivity extends CordovaActivity implements View.OnClickListene
     @Override
     public void onClick(View v)
     {
-        if(v.getId() == R.id.buttonCategories)
+        if(v.getId() == R.id.buttonShoplist)
         {
             Intent i = new Intent(this, ShoplistActivity.class);
+            startActivity(i);
+        }
+
+        else if(v.getId() == R.id.buttonCategories)
+        {
+            Intent i = new Intent(this, CategoriesActivity.class);
             startActivity(i);
         }
 
