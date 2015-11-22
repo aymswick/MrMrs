@@ -7,6 +7,8 @@
     <string name="hello_world">hello world</string>
     <string name="categories">Categories</string>
     <string name="webview">Webview</string>
+    <string name="next">Next</string>
+    <string name="back">Cancel</string>
 
 
 </resources>

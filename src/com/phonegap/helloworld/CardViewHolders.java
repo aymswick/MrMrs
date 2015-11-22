@@ -1,5 +1,6 @@
 package com.phonegap.helloworld;
 
+import android.app.Dialog;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
@@ -26,6 +27,7 @@ public class CardViewHolders extends RecyclerView.ViewHolder implements View.OnC
 
     @Override
     public void onClick(View v) {
+        //Dialog testDialog = new Dialog();
         Toast.makeText(v.getContext(), "Clicked Position = " + getPosition(), Toast.LENGTH_SHORT).show();
     }
 
