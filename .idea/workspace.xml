@@ -22,30 +22,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e7892a-f82f-4e6a-bf78-4771e09d8c40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/BuildConfig.class" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/classes/debug/org/apache/cordova/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/classes/release/org/apache/cordova/BuildConfig.class" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/classes/release/org/apache/cordova/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" afterPath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-release.aar" afterPath="$PROJECT_DIR$/CordovaLib/build/outputs/aar/CordovaLib-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/CordovaLib/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/generated/source/buildConfig/debug/org/apache/cordova/BuildConfig.java" afterPath="$PROJECT_DIR$/CordovaLib/build/generated/source/buildConfig/debug/org/apache/cordova/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build/generated/source/buildConfig/release/org/apache/cordova/BuildConfig.java" afterPath="$PROJECT_DIR$/CordovaLib/build/generated/source/buildConfig/release/org/apache/cordova/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/phonegap/helloworld/CardViewHolders.java" afterPath="$PROJECT_DIR$/src/com/phonegap/helloworld/CardViewHolders.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" afterPath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MrMrs.iml" afterPath="$PROJECT_DIR$/MrMrs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/phonegap/helloworld/Product.java" afterPath="$PROJECT_DIR$/src/com/phonegap/helloworld/Product.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/phonegap/helloworld/ShoplistActivity.java" afterPath="$PROJECT_DIR$/src/com/phonegap/helloworld/ShoplistActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_2_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CordovaLib/build.gradle" afterPath="$PROJECT_DIR$/CordovaLib/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MrMrs.iws" />
@@ -2212,6 +2188,13 @@
       <option name="number" value="Default" />
       <updated>1448081518294</updated>
     </task>
+    <task id="LOCAL-00001" summary="data input">
+      <created>1448217735071</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448217735071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2271,7 +2254,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="data input" />
+    <option name="LAST_COMMIT_MESSAGE" value="data input" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
